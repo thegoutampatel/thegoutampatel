@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://thegoutampatelportfolio.netlify.app/](https://thegoutampatelportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://goutampatel.website/](https://goutampatel.website/)
 
 - 📫 How to reach me **goutampatel9131@gmail.com**
 
